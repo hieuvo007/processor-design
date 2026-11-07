@@ -1,0 +1,17 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.vvp
+*.wlf
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+*.qws
+
+# Temporary files
+*.log
+*.bak
+*.tmp
+*~
